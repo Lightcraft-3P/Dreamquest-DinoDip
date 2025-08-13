@@ -151,7 +151,7 @@
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
+						"dino": "/Menagerie/Dinos/Plateosaurus/Plateosaurus_M_Character_BP.Plateosaurus_M_Character_BP_C",
 						"chancetodrop": 0.7
 					},
 					{
@@ -167,7 +167,7 @@
 						"chancetodrop": 0.6
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+						"dino": "/game/Mods/PA_Plus_Pack_01/Content/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
