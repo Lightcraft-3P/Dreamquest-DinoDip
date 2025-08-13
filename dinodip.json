@@ -220,7 +220,7 @@
 						"chancetodrop": 0.8
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
+						"dino": "/Cockatrice/Cockatrice/Cockatrice_Character_BP.Cockatrice_Character_BP_C'",
 						"chancetodrop": 0.8
 					},
 					{
