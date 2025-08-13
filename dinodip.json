@@ -167,7 +167,7 @@
 						"chancetodrop": 0.6
 					},
 					{
-						"dino": "/game/Mods/PA_Plus_Pack_01/Content/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
+						"dino": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP_C",
 						"chancetodrop": 0.8
 					},
 					{
